@@ -11,7 +11,7 @@ An entire backend database/server where you can (C)reate, (R)ead, (U)pdate, and 
 * MySQL2
 
 ## Tutorial Video!:
-
+https://watch.screencastify.com/v/xAyYoOf0Y6R8TiuxbR1Y
 
 
 ## Contribution
